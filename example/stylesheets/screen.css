@@ -1,0 +1,22 @@
+.sushibar {
+}
+
+.sushibar_viewport {
+}
+
+.sushibar {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.sushibar li {
+  margin-left: 0px;
+  padding-left: 0px;
+  display: inline;
+}
+
+.sushibar li img {
+  border-width: 0;
+}
+
+
